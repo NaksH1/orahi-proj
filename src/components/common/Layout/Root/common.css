@@ -1,0 +1,20 @@
+.bg_screen{
+    /* background-color: rgb(184, 205, 205); */
+    background-image: url('');
+    color: rgb(6, 6, 6);
+    font-family: 'Vollkorn', serif;
+}
+
+.home_scrren{
+    width: 500px;
+    margin: 10px auto; 
+    height: 100vh;
+    background-image: url('https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148871843.jpg');
+        
+}
+    
+
+    .home_scrren_main{
+        background-image: url('https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148871843.jpg');
+    }
+

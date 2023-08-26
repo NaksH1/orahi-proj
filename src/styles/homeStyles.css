@@ -1,0 +1,14 @@
+.homescreen{
+    background-color: #7F8C8D;
+}
+
+.headingOrahi{
+    color: beige;
+}
+
+.linkStyle{
+    font-size: initial !important;
+    text-decoration: none;   
+    font-weight: 300;
+    color: black !important;
+}
